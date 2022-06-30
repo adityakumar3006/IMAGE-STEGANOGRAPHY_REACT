@@ -1,2 +1,2 @@
-
-#
+#IMAGE-STEGANOGRAPHY_REACT
+#Steganography is a form of security technique through obscurity; the science and art of hiding the existence of a message between sender and intended recipient. #Steganography has been used to hide secret messages in various types of files, including digital images, audio and video. The three most important parameters for audio #steganography are imperceptibility, payload, and robustness. Different applications have different requirements of the steganography technique used. 
